@@ -1,0 +1,1 @@
+# gamma_installer_win
